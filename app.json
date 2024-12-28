@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ata_oms_mobile_expo_app",
-    "slug": "ata_oms_mobile_expo_app",
+    "name": "wushu_oms_mobile_expo_app",
+    "slug": "wushu_oms_mobile_expo_app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
